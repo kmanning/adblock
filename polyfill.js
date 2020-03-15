@@ -34,7 +34,6 @@
     "runtime.getBrowserInfo",
     "runtime.openOptionsPage",
     "runtime.sendMessage",
-    "runtime.setUninstallURL",
     "storage.local.get",
     "storage.local.remove",
     "storage.local.set",
